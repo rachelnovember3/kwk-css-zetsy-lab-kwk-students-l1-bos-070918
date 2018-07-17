@@ -35,5 +35,8 @@ h1 {
     color: rgb(111,127,122);
     font-size: 2em;
 }
-
+#press img {
+    border: 5px #ccc solid;
+    padding: 1px;
+}
 /* Write all remaining styles here */
