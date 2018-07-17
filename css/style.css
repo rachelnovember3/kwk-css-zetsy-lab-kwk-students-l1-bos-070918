@@ -17,9 +17,7 @@ body {
 	padding: 0 45px 20px;
 }
 
-body {
-    background: #F3EBE9;
-    font-size: 100%;
-    font-family: 'Times New Roman', serif;
+#featured img {
+    border: 5px rgb(152,173,166) solid;
 }
 /* Write all remaining styles here */
